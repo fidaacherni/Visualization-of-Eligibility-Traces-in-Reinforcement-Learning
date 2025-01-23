@@ -2,6 +2,7 @@
 This project focuses on visualizing eligibility traces, a key concept in reinforcement learning (RL), to bridge the gap between Monte Carlo (MC) methods and Temporal Difference (TD(0)) learning through the generalization TD(λ). The primary goal is to develop a user-friendly, interactive visualization that helps students and practitioners intuitively understand how eligibility traces impact learning and decision-making in RL.
 
 🛠 Objective
+
 1- Explain and visualize eligibility traces by highlighting the role of λ (trace decay factor) and 𝛾 (discount factor).
 2- Showcase the transition from MC and TD(0) to TD(λ), explaining their limitations and how TD(λ) addresses them.
 3- Provide a gridworld simulation where an agent's trajectory and eligibility traces are dynamically displayed.
